@@ -3,6 +3,6 @@
 source system/tools/hidl/update-makefiles-helper.sh
 
 do_makefiles_update \
-  "vendor.lineage:hardware/lineage/interfaces" \
+  "vendor.aoscp:hardware/aoscp/interfaces" \
   "android.hardware:hardware/interfaces" \
   "android.hidl:system/libhidl/transport"
